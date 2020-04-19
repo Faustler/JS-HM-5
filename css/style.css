@@ -1,0 +1,94 @@
+body{
+   background-color: black;
+}
+span{
+   font-size: 40px;
+   color: white;
+}
+
+li{
+   font-size: 40px;
+   list-style-type: none;
+   color:white;
+   padding-left: 485px;
+}
+
+.Start{
+   display: block;
+   background-color:black;
+   color:wheat;
+   border: 3px solid white;
+   border-radius: 25px;
+   font-size: 30px;
+   padding: 15px,40px;
+   width: 100px;
+    
+}
+.Pause{
+   display: none;
+   background-color:black;
+   color:wheat;
+   border: 3px solid white;
+   border-radius: 25px;
+   font-size: 30px;
+   width: 100px;
+}
+.Clear{
+   display: block;
+   background-color:black;
+   color:wheat;
+   border: 3px solid white;
+   border-radius: 25px;
+   font-size: 30px;
+   width: 100px;
+}
+.Сircle{
+   display: none;
+   background-color:black;
+   color:wheat;
+   border: 3px solid white;
+   border-radius: 25px;
+   font-size: 30px;
+   width: 100px;
+}
+.watch2{
+   display: none;
+   padding-right: 10px;
+}
+.ff{
+   padding-right: 10px;
+   display: none;
+}
+.spisok{
+   display: flex;
+   flex-direction: column-reverse;
+}
+.watch3{
+   display: none;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  max-width: 300px;
+  padding-left: 540px;
+}
+.a{
+   display: flex;
+   justify-content: center;
+   margin-top:100px;
+   margin-bottom: 100px;
+   border: 1px solid white;
+   border-radius: 25px;
+}
+.b{
+   padding-left: 46%;
+   flex-direction: column;
+}
+.c{
+   padding-left: 705px;
+   font-size: 20px;
+   display: none;
+   justify-content: space-between;
+   max-width: 310px;
+}
